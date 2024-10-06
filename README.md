@@ -140,15 +140,11 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Subhalaxmi2004&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Subhalaxmi2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <!--START_SECTION:waka-->
 
-```text
-Python   3 hrs 58 mins    █████████████████████████   100.00 %
-```
 <!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mdnadeemsarwar.mdnadeemsarwar.svg)
+
 <!---
 Subhalaxmi2004/Subhalaxmi2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
